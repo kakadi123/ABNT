@@ -1,0 +1,21 @@
+
+#main {
+  max-width: 1000px;
+  margin: 2em auto 10em;
+}
+
+/* 
+#editor {
+  min-width: 200px;
+  min-height: 400px;
+} */
+
+#barra {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+#tela-dados {
+  padding: 1em 0;
+}
